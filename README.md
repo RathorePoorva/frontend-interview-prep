@@ -15,3 +15,18 @@
 |HTML|meta tags|
 |HTML|ways to add CSS code in HTML|
 |HTML|ways to add Javascript code in HTML|
+|CSS|box model|
+|CSS|Scss vs sass- CSS Preprocessor|
+|CSS|selectors in css|
+|CSS|Pseudo element|
+|CSS|display:none vs visibility:hidden|
+|CSS|grid vs flexbox|
+|CSS|calc function|
+|CSS|specificity in css|
+|CSS|align an item to the center of the page|
+|CSS|how to make an application responsive|
+|CSS|Accessibility|
+|CSS|how to fix browser specific styling issues|
+|CSS|resetting vs normalizing|
+|CSS|z-index|
+|CSS|mixin|
